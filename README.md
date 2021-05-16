@@ -10,7 +10,9 @@ Components used:
 - 2 Light Dependent Resistor (LDR)
 - 2 10K resistors
 
-Circuit -> ![Screenshot (243)](https://user-images.githubusercontent.com/73816908/118402526-d59e3200-b69c-11eb-903f-6d54bf81ee8e.png)
+Circuit -> 
+
+![Screenshot (243)](https://user-images.githubusercontent.com/73816908/118402526-d59e3200-b69c-11eb-903f-6d54bf81ee8e.png)
 
 Video -> https://youtu.be/zybNk1xmLEk
 
